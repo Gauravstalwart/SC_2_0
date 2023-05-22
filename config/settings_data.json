@@ -148,7 +148,7 @@
               "enable_image": true,
               "title": "Site-wide promotion",
               "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
+              "button_label": "button",
               "button_link": "",
               "color_scheme": "1"
             }
