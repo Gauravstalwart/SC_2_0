@@ -108,7 +108,7 @@
         ],
         "settings": {
           "main_menu_link_list": "header-menu",
-          "main_menu_alignment": "left-center",
+          "main_menu_alignment": "left",
           "mega_products": true,
           "header_sticky": true,
           "header_footer_menu": true,
