@@ -331,6 +331,7 @@
     },
     "blog-posts": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "From the journal",
         "blog": "news",
@@ -357,9 +358,10 @@
             "link_2": "",
             "link_text_2": "",
             "text_position": "left",
+            "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
             "indent_image": false,
             "focal_point": "bottom center",
-            "color_scheme": "1"
+            "color_scheme": "3"
           }
         }
       },
