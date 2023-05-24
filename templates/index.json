@@ -96,21 +96,21 @@
         "featured-collections-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "mens",
             "title": ""
           }
         },
         "featured-collections-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "womens",
             "title": ""
           }
         },
         "featured-collections-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "womens-t-shirt",
             "title": ""
           }
         },
@@ -146,7 +146,7 @@
       ],
       "settings": {
         "title": "Popular categories",
-        "divider": false
+        "divider": true
       }
     },
     "featured-collection": {
