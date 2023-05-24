@@ -186,7 +186,7 @@
         ],
         "settings": {
           "hide_homepage": false,
-          "image_size": "natural"
+          "image_size": "landscape"
         }
       },
       "product-recommendations": {
