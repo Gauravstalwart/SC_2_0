@@ -190,17 +190,6 @@
         "autoplay_speed": 5
       }
     },
-    "featured-collection2": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "count": 5,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
@@ -217,7 +206,7 @@
         "promo-grid-2-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "casual-regular-sleeves-printed-women-green-top",
             "subheading": "",
             "heading": "Announce your product",
             "textarea": "Include text explaining your featured product.",
@@ -231,7 +220,7 @@
         "promo-grid-2-2": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "men-slim-fit-checkered-cut-away-collar-casual-shirt",
             "subheading": "",
             "heading": "Announce your product",
             "textarea": "Include text explaining your featured product.",
@@ -251,7 +240,7 @@
       "settings": {
         "full_width": false,
         "gutter_size": 20,
-        "space_above": false,
+        "space_above": true,
         "space_below": false
       }
     },
@@ -419,7 +408,6 @@
     "featured-collections",
     "featured-collection",
     "slideshow",
-    "featured-collection2",
     "promo-grid2",
     "logo-list",
     "newsletter",
