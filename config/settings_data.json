@@ -107,7 +107,7 @@
           "b5c7ff6a-1327-411b-813b-46ec5e53edac"
         ],
         "settings": {
-          "main_menu_link_list": "header-menu",
+          "main_menu_link_list": "header",
           "main_menu_alignment": "left",
           "mega_products": true,
           "header_sticky": true,
