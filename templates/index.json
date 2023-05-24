@@ -113,36 +113,15 @@
             "collection": "womens-t-shirt",
             "title": ""
           }
-        },
-        "featured-collections-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured-collections-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured-collections-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
         }
       },
       "block_order": [
         "featured-collections-0",
         "featured-collections-1",
-        "featured-collections-2",
-        "featured-collections-3",
-        "featured-collections-4",
-        "featured-collections-5"
+        "featured-collections-2"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "title": "Popular categories",
@@ -153,7 +132,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured collection",
-        "home_featured_products": "",
+        "home_featured_products": "womens",
         "count": 5,
         "mobile_scrollable": true,
         "view_all": true,
