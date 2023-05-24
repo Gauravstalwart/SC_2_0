@@ -53,6 +53,43 @@
         "autoplay_speed": 7
       }
     },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo-grid-1": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_scheme": "3"
+          }
+        },
+        "promo-grid-2": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_scheme": "3"
+          }
+        }
+      },
+      "block_order": [
+        "promo-grid-1",
+        "promo-grid-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -110,43 +147,6 @@
       "settings": {
         "title": "Popular categories",
         "divider": false
-      }
-    },
-    "promo-grid": {
-      "type": "promo-grid",
-      "blocks": {
-        "promo-grid-1": {
-          "type": "sale_collection",
-          "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
-            "color_scheme": "3"
-          }
-        },
-        "promo-grid-2": {
-          "type": "sale_collection",
-          "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
-            "color_scheme": "3"
-          }
-        }
-      },
-      "block_order": [
-        "promo-grid-1",
-        "promo-grid-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": false
       }
     },
     "featured-collection": {
@@ -436,8 +436,8 @@
   },
   "order": [
     "slideshow-split",
-    "featured-collections",
     "promo-grid",
+    "featured-collections",
     "featured-collection",
     "slideshow",
     "featured-collection2",
