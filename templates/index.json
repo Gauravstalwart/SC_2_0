@@ -70,7 +70,7 @@
         "promo-grid-2": {
           "type": "sale_collection",
           "settings": {
-            "sale_collection": "",
+            "sale_collection": "womens",
             "top_text": "Up to",
             "middle_text": "50% off",
             "bottom_text": "Select products",
