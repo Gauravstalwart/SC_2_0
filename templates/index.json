@@ -155,6 +155,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/homepage-banner-3-1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -172,6 +173,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Apparel-Banner-2000px_1000x1000_b42e884c-58b5-4a34-895c-81aeaff3a31c.webp",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
