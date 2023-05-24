@@ -248,6 +248,7 @@
     },
     "logo-list": {
       "type": "logo-list",
+      "disabled": true,
       "blocks": {
         "logo-list-0": {
           "type": "logo_image",
