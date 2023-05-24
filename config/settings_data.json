@@ -123,7 +123,7 @@
           "popup_seconds": 60,
           "popup_days": 30,
           "popup_title": "Get 10% off your first purchase.",
-          "popup_text": "<p>Sign up today and we&#x27;ll send you a 10% discount code towards your first purchase. Some restrictions apply.<\/p>",
+          "popup_text": "<p>Sign up today and we'll send you a 10% discount code towards your first purchase. Some restrictions apply.<\/p>",
           "color_scheme": "2",
           "enable_newsletter": true,
           "button_label": "Optional button",
@@ -186,7 +186,7 @@
         ],
         "settings": {
           "hide_homepage": false,
-          "image_size": "wide"
+          "image_size": "natural"
         }
       },
       "product-recommendations": {

@@ -243,7 +243,7 @@
         "full_width": false,
         "gutter_size": 20,
         "space_above": true,
-        "space_below": false
+        "space_below": true
       }
     },
     "logo-list": {
@@ -298,36 +298,6 @@
       "settings": {
         "title": "Popular brands",
         "divider": false
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "title": "Sign up and save"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
-          }
-        },
-        "form": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title",
-        "text",
-        "form"
-      ],
-      "settings": {
-        "color_scheme": "3"
       }
     },
     "blog-posts": {
@@ -403,7 +373,38 @@
         "align_text": "center",
         "narrow_column": true,
         "color_scheme": "3",
-        "divider": false
+        "divider": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text",
+        "form"
+      ],
+      "settings": {
+        "color_scheme": "3"
       }
     }
   },
@@ -415,9 +416,9 @@
     "slideshow",
     "promo-grid2",
     "logo-list",
-    "newsletter",
     "blog-posts",
     "slideshow-split2",
-    "rich-text"
+    "rich-text",
+    "newsletter"
   ]
 }
