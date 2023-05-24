@@ -59,7 +59,7 @@
         "promo-grid-1": {
           "type": "sale_collection",
           "settings": {
-            "sale_collection": "",
+            "sale_collection": "mens",
             "top_text": "Up to",
             "middle_text": "50% off",
             "bottom_text": "Select products",
