@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -52,16 +61,6 @@
             "inventory_transfers_enable": true
           }
         },
-        "c6834cdb-3e57-403a-8137-de27c27afad8": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-            "stars_fill_color": "#000000",
-            "star_size": 15,
-            "text_align": "flex-start",
-            "product": "{{product}}",
-            "stars_text_empty": "No reviews"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -78,7 +77,6 @@
         "sales_point3",
         "sales_point4",
         "inventory_status",
-        "c6834cdb-3e57-403a-8137-de27c27afad8",
         "buy_buttons"
       ],
       "settings": {
@@ -154,6 +152,23 @@
       "settings": {
         "color_scheme": "2"
       }
+    },
+    "1721046756c68b0a3a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_CakiNX": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_CakiNX"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -163,6 +178,7 @@
     "more-products-vendor",
     "more-products-collection",
     "recently-viewed",
-    "collection-return"
+    "collection-return",
+    "1721046756c68b0a3a"
   ]
 }
