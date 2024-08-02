@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow-split": {
@@ -64,7 +73,7 @@
             "middle_text": "50% off",
             "bottom_text": "Select products",
             "width": "50",
-            "color_scheme": "1"
+            "color_scheme": "2"
           }
         },
         "promo-grid-2": {
@@ -248,7 +257,6 @@
     },
     "logo-list": {
       "type": "logo-list",
-      "disabled": true,
       "blocks": {
         "logo-list-0": {
           "type": "logo_image",
@@ -295,6 +303,7 @@
         "logo-list-4",
         "logo-list-5"
       ],
+      "disabled": true,
       "settings": {
         "title": "Popular brands",
         "divider": false
@@ -378,7 +387,6 @@
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "title": {
           "type": "title",
@@ -403,6 +411,7 @@
         "text",
         "form"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "3"
       }
