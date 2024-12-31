@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow-split": {
@@ -24,7 +24,7 @@
             "link_2": "",
             "link_text_2": "",
             "text_position": "right",
-            "image": "shopify:\/\/shop_images\/Apparel-Banner-2000px_1000x1000_b42e884c-58b5-4a34-895c-81aeaff3a31c.webp",
+            "image": "shopify://shop_images/Apparel-Banner-2000px_1000x1000_b42e884c-58b5-4a34-895c-81aeaff3a31c.webp",
             "indent_image": false,
             "focal_point": "center center",
             "color_scheme": "3"
@@ -42,7 +42,7 @@
             "link_2": "",
             "link_text_2": "",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/homepage-banner-3-1.png",
+            "image": "shopify://shop_images/homepage-banner-3-1.png",
             "indent_image": false,
             "focal_point": "center center",
             "color_scheme": "3"
@@ -129,9 +129,8 @@
         "featured-collections-1",
         "featured-collections-2"
       ],
-      "custom_css": [
-
-      ],
+      "disabled": true,
+      "custom_css": [],
       "settings": {
         "title": "Popular categories",
         "divider": true
@@ -155,7 +154,7 @@
           "type": "hero",
           "settings": {
             "top_subheading": "",
-            "title": "<p>Overlaid Hero Slide<\/p>",
+            "title": "<p>Overlaid Hero Slide</p>",
             "title_size": 56,
             "subheading": "And optional subtext",
             "link": "",
@@ -164,7 +163,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/homepage-banner-3-1.png",
+            "image": "shopify://shop_images/homepage-banner-3-1.png",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -173,7 +172,7 @@
           "type": "hero",
           "settings": {
             "top_subheading": "",
-            "title": "<p>Overlaid Hero Slide<\/p>",
+            "title": "<p>Overlaid Hero Slide</p>",
             "title_size": 55,
             "subheading": "And optional subtext",
             "link": "",
@@ -182,7 +181,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Apparel-Banner-2000px_1000x1000_b42e884c-58b5-4a34-895c-81aeaff3a31c.webp",
+            "image": "shopify://shop_images/Apparel-Banner-2000px_1000x1000_b42e884c-58b5-4a34-895c-81aeaff3a31c.webp",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -338,7 +337,7 @@
             "link_2": "",
             "link_text_2": "",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/rack-of-womens-clothing.jpg",
+            "image": "shopify://shop_images/rack-of-womens-clothing.jpg",
             "indent_image": false,
             "focal_point": "bottom center",
             "color_scheme": "3"
@@ -370,7 +369,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -397,13 +396,12 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>"
           }
         },
         "form": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
